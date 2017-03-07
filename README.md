@@ -16,7 +16,7 @@ The following was used to create this project
 
 * Checkout the project 
 * Run `bundle install`
-* Run `bundle exec rails server` or `bundle exec passenger start`
+* Run `bundle exec rails server`
 
 ## Contributors
 
